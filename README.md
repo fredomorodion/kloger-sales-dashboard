@@ -1,2 +1,1 @@
-# kloger-sales-dashboard
-Sales &amp; Profitability Dashboard Analysis using Excel
+:::writing{variant=“standard” id=“66392”}
